@@ -1,4 +1,4 @@
 sammysgit
 =========
-this is begining for to learn from github
+this is a begining for me to learn from github
 sam
